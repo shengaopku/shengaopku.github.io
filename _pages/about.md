@@ -10,32 +10,47 @@ redirect_from:
 
 Hi! I am a Ph.D student at Peking University working on Natural Language Processing Research. I am currently based in Beijing, China. Before joining  Peking University, I earned my Master Degree from Beijing Institute of Technology, China in 2018. During my PhD, I worked on text summarization, dialog system and text generation. 
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
 Latest News
 ======
 2222233333333333
 
-Selected Publications
+Selected Publications [(Full List)](https://scholar.google.com/citations?user=Xb5yz-YAAAAJ&hl=zh-CN)
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+\item Meaningful Answer Generation of E-Commerce Question-Answering. \textbf{Shen Gao}, Xiuying Chen, Zhaochun Ren, Dongyan Zhao and Rui Yan. \textit{Accepted by \textbf{TOIS}} 
+
+\item Learning to Respond with Your Favorite Stickers: A Framework of Unifying Multi-Modality and User Preference in Multi-Turn Dialog. \textbf{Shen Gao}, Xiuying Chen, Li Liu, Dongyan Zhao and Rui Yan. \textit{Accepted by \textbf{TOIS}} 
+    
+    \item From Standard Summarization to New Tasks and Beyond: Summarization with Manifold Information. \textbf{Shen Gao}, Xiuying Chen, Zhaochun Ren, Dongyan Zhao and Rui Yan. \textit{Accepted by \textbf{IJCAI 2020}} (\textbf{Special Track}. Acceptance criteria: 1) Core AI topic and 2) The list of authors should contain at least one author who has made significant contributions to the topic over the last few years and can be considered an expert on that topic.)
+    
+    \item Learning to Respond with Stickers: A Framework of Unifying Multi-Modality in Multi-Turn Dialog. \textbf{Shen Gao}, Xiuying Chen, Chang Liu, Li Liu, Dongyan Zhao and Rui Yan. \textit{Accepted by \textbf{WWW 2020}}
+    
+    \item How to Write Summaries with Patterns? Learning towards Abstractive Summarization through Prototype Editing. \textbf{Shen Gao}, Xiuying Chen, Piji Li, Zhanming Chan, Dongyan Zhao and Rui Yan. \textit{Accepted by \textbf{EMNLP 2019}}
+    
+    \item Abstractive Text Summarization by Incorporating Reader Comments. \textbf{Shen Gao}, Xiuying Chen, Piji Li, Zhaochun Ren, Lidong Bing, Dongyan Zhao and Rui Yan. \textit{Accepted by \textbf{AAAI 2019}}
+    
+    \item Product-Aware Answer Generation in E-Commerce Question-Answering. \textbf{Shen Gao}, Zhaochun Ren, Yihong Eric Zhao, Dongyan Zhao, Dawei Yin and Rui Yan. \textit{Accepted by \textbf{WSDM 2019}}
 
 Professional Activities
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section 
+{\bf TheWebConf (WWW) Program committee} \hfill {\em  2021}\\
+{\bf ACL Program committee} \hfill {\em  2019, 2020}\\
+{\bf EMNLP Program committee} \hfill {\em  2019, 2020}\\
+{\bf NAACL Program committee} \hfill {\em  2020}\\
+{\bf COLING Program committee} \hfill {\em  2020}\\
+{\bf AAAI Program committee} \hfill {\em  2020, 2021}\\
+{\bf CIKM Program committee} \hfill {\em  2020}\\
+{\bf CCL Program committee} \hfill {\em  2018, 2019， 2020}\\
+{\bf AACL-IJCNLP Program committee} \hfill {\em  2020}\\
+{\bf PAKDD Program committee} \hfill {\em  2021}\\
+{\bf ACL NUSE Workshop Program committee} \hfill {\em  2020}\\
+{\bf Journal of Information Processing and Management (IPM) Reviewer} \hfill {\em  from 2019 to now}
+{\bf Neurocomputing Reviewer} \hfill {\em  from 2020 to now}
 
 Honors
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+1. President Scholarship}, Peking University \hfill {\em 2020} \\
+{\bf Merit Student}, Peking University \hfill {\em 2019} \\
+{\bf The Second Prize Scholarship}, Peking University \hfill {\em 2019}\\
+{\bf SIGIR Student Travel Grant}, Special Interest Group on Information Retrieval, ACM \hfill {\em 2019}\\
+{\bf Outstanding student}, Institute of computer science \& technology of Peking University \hfill {\em 2018}\\
+{\bf The First Prize Academic Scholarship}, Beijing Institute of Technology \hfill {\em 2017}
