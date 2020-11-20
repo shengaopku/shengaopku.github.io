@@ -29,12 +29,12 @@ Selected Publications [(Full List)](https://scholar.google.com/citations?user=Xb
 
 Research Experience
 ======
-1. Ant Group (Alipay), Beijing, China.  December, 2020
+1. [Ant Group (Alipay)](https://www.antgroup.com/en), Beijing, China.  December, 2020
 Research Intern. Mentor: Yongliang Wang 
 
-1. Inception Institute of Artificial Intelligence (IIAI), Abu Dhabi, United Arab Emirates.  March, 2019
-Research Intern. Mentor: Li Liu 
+1. [Inception Institute of Artificial Intelligence (IIAI)](https://www.inceptioniai.org/), Abu Dhabi, United Arab Emirates.  March, 2019
+Research Intern. Mentor: [Li Liu](https://scholar.google.com/citations?user=NS8RkccAAAAJ&hl=zh-CN)
 
-1. JD.com, Data Science Lab, Beijing, China.  June, 2018
+1. [JD.com](http://datascience.jd.com/), Data Science Lab, Beijing, China.  June, 2018
 Research Intern. Mentor: [Prof. Zhaochun Ren](http://ir.sdu.edu.cn/~zhaochunren/)
 
