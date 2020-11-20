@@ -11,4 +11,4 @@ layout: archive
 1. The Second Prize Scholarship, Peking University 2019 
 1. SIGIR Student Travel Grant, Special Interest Group on Information Retrieval, ACM 2019 
 1. Outstanding student, Institute of computer science & technology of Peking University 2018 
-1. The First Prize Academic Scholarship}, Beijing Institute of Technology 2017
+1. The First Prize Academic Scholarship, Beijing Institute of Technology 2017
