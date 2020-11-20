@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on <u><a href="https://scholar.google.com/citations?user=Xb5yz-YAAAAJ&hl=zh-CN">my Google Scholar profile</a>.</u>
+You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=Xb5yz-YAAAAJ&hl=zh-CN).
 
 
 1. Meaningful Answer Generation of E-Commerce Question-Answering. **Shen Gao**, Xiuying Chen, Zhaochun Ren, Dongyan Zhao and Rui Yan. Accepted by **TOIS**. [PDF](/files/2020-tois-memqa.pdf)
