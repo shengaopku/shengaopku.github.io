@@ -2,9 +2,8 @@
 permalink: /service
 title: "Academic Service"
 excerpt: "Academic Service"
-author_profile: false
+author_profile: true
 redirect_from: 
-  - /service/
   - /service.html
 ---
 
