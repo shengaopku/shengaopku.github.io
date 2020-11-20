@@ -21,7 +21,7 @@ Selected Publications
     
 1. Learning to Respond with Stickers: A Framework of Unifying Multi-Modality in Multi-Turn Dialog. **Shen Gao**, Xiuying Chen, Chang Liu, Li Liu, Dongyan Zhao and Rui Yan. Accepted by **WWW 2020**. [PDF](/files/2020-www.sticker.pdf)
     
-1. How to Write Summaries with Patterns? Learning towards Abstractive Summarization through Prototype Editing. **Shen Gao**, Xiuying Chen, Piji Li, Zhanming Chan, Dongyan Zhao and Rui Yan. Accepted by **EMNLP 2019**. [PDF](/files/2019-emnlp-proto.pdf)
+1. How to Write Summaries with Patterns? Learning towards Abstractive Summarization through Prototype Editing. **Shen Gao**, Xiuying Chen, Piji Li, Zhangming Chan, Dongyan Zhao and Rui Yan. Accepted by **EMNLP 2019**. [PDF](/files/2019-emnlp-proto.pdf)
     
 1. Abstractive Text Summarization by Incorporating Reader Comments. **Shen Gao**, Xiuying Chen, Piji Li, Zhaochun Ren, Lidong Bing, Dongyan Zhao and Rui Yan. Accepted by **AAAI 2019**. [PDF](/files/2019-aaai-reader.pdf)
     
