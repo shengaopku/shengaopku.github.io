@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /service
 title: "Academic Service"
 excerpt: "Academic Service"
 author_profile: false
