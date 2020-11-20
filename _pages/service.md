@@ -1,10 +1,9 @@
 ---
-permalink: /service
+permalink: /service/
 title: "Academic Service"
 excerpt: "Academic Service"
 author_profile: true
-redirect_from: 
-  - /service.html
+layout: archive
 ---
 
 Academic Service
