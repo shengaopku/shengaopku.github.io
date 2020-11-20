@@ -29,6 +29,15 @@ Selected Publications [(Full List)](https://scholar.google.com/citations?user=Xb
     \item Abstractive Text Summarization by Incorporating Reader Comments. \textbf{Shen Gao}, Xiuying Chen, Piji Li, Zhaochun Ren, Lidong Bing, Dongyan Zhao and Rui Yan. \textit{Accepted by \textbf{AAAI 2019}}
     
     \item Product-Aware Answer Generation in E-Commerce Question-Answering. \textbf{Shen Gao}, Zhaochun Ren, Yihong Eric Zhao, Dongyan Zhao, Dawei Yin and Rui Yan. \textit{Accepted by \textbf{WSDM 2019}}
+    
+Research Experience
+======
+{\bf Ant Group (Alipay)}, Beijing, China.\\
+Research Intern \hfill {\em December, 2020} 
+{\bf Inception Institute of Artificial Intelligence (IIAI)}, Abu Dhabi, United Arab Emirates.\\
+Research Intern \hfill {\em March, 2019} 
+{\bf JD.com}, Data Science Lab, Beijing, China \\
+Research Intern \hfill {\em June, 2018}
 
 Professional Activities
 ======
