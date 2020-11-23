@@ -13,19 +13,19 @@ Hi! I am a Ph.D student at [Wangxuan Institute of Computer Technology (WICT)](ht
 
 Selected Publications
 ======
-1. ![new paper](/images/new.gif) Meaningful Answer Generation of E-Commerce Question-Answering. **Shen Gao**, Xiuying Chen, Zhaochun Ren, Dongyan Zhao and Rui Yan. Accepted by **TOIS**. [PDF](/files/2020-tois-memqa.pdf)
+1. ![new paper](/images/new.gif) Meaningful Answer Generation of E-Commerce Question-Answering. **Shen Gao**, Xiuying Chen, Zhaochun Ren, Dongyan Zhao and Rui Yan. Accepted by **TOIS (CCF Rank A)**. [PDF](/files/2020-tois-memqa.pdf)
 
-1. ![new paper](/images/new.gif) Learning to Respond with Your Favorite Stickers: A Framework of Unifying Multi-Modality and User Preference in Multi-Turn Dialog. **Shen Gao**, Xiuying Chen, Li Liu, Dongyan Zhao and Rui Yan. Accepted by **TOIS**. [PDF](/files/2020-tois-sticker.pdf)
+1. ![new paper](/images/new.gif) Learning to Respond with Your Favorite Stickers: A Framework of Unifying Multi-Modality and User Preference in Multi-Turn Dialog. **Shen Gao**, Xiuying Chen, Li Liu, Dongyan Zhao and Rui Yan. Accepted by **TOIS (CCF Rank A)**. [PDF](/files/2020-tois-sticker.pdf)
     
-1. From Standard Summarization to New Tasks and Beyond: Summarization with Manifold Information. **Shen Gao**, Xiuying Chen, Zhaochun Ren, Dongyan Zhao and Rui Yan. Accepted by **IJCAI 2020** (**<font color="#dd0000">Special Track</font>**. Acceptance criteria: 1) Core AI topic and 2) The list of authors should contain at least one author who has made significant contributions to the topic over the last few years and can be considered an expert on that topic.) [PDF](/files/2020-ijcai-summ-survey.pdf)
+1. From Standard Summarization to New Tasks and Beyond: Summarization with Manifold Information. **Shen Gao**, Xiuying Chen, Zhaochun Ren, Dongyan Zhao and Rui Yan. Accepted by **IJCAI 2020 (CCF Rank A)** (**<font color="#dd0000">Special Track</font>**. Acceptance criteria: 1) Core AI topic and 2) The list of authors should contain at least one author who has made significant contributions to the topic over the last few years and can be considered an expert on that topic.) [PDF](/files/2020-ijcai-summ-survey.pdf)
     
-1. Learning to Respond with Stickers: A Framework of Unifying Multi-Modality in Multi-Turn Dialog. **Shen Gao**, Xiuying Chen, Chang Liu, Li Liu, Dongyan Zhao and Rui Yan. Accepted by **WWW 2020**. [PDF](/files/2020-www.sticker.pdf)
+1. Learning to Respond with Stickers: A Framework of Unifying Multi-Modality in Multi-Turn Dialog. **Shen Gao**, Xiuying Chen, Chang Liu, Li Liu, Dongyan Zhao and Rui Yan. Accepted by **WWW 2020 (CCF Rank A)**. [PDF](/files/2020-www.sticker.pdf)
     
-1. How to Write Summaries with Patterns? Learning towards Abstractive Summarization through Prototype Editing. **Shen Gao**, Xiuying Chen, Piji Li, Zhangming Chan, Dongyan Zhao and Rui Yan. Accepted by **EMNLP 2019**. [PDF](/files/2019-emnlp-proto.pdf)
+1. How to Write Summaries with Patterns? Learning towards Abstractive Summarization through Prototype Editing. **Shen Gao**, Xiuying Chen, Piji Li, Zhangming Chan, Dongyan Zhao and Rui Yan. Accepted by **EMNLP 2019 (CCF Rank B)**. [PDF](/files/2019-emnlp-proto.pdf)
     
-1. Abstractive Text Summarization by Incorporating Reader Comments. **Shen Gao**, Xiuying Chen, Piji Li, Zhaochun Ren, Lidong Bing, Dongyan Zhao and Rui Yan. Accepted by **AAAI 2019**. [PDF](/files/2019-aaai-reader.pdf)
+1. Abstractive Text Summarization by Incorporating Reader Comments. **Shen Gao**, Xiuying Chen, Piji Li, Zhaochun Ren, Lidong Bing, Dongyan Zhao and Rui Yan. Accepted by **AAAI 2019 (CCF Rank A)**. [PDF](/files/2019-aaai-reader.pdf)
     
-1. Product-Aware Answer Generation in E-Commerce Question-Answering. **Shen Gao**, Zhaochun Ren, Yihong Eric Zhao, Dongyan Zhao, Dawei Yin and Rui Yan. Accepted by **WSDM 2019**. [PDF](/files/2019-wsdm-ecom-qa.pdf)
+1. Product-Aware Answer Generation in E-Commerce Question-Answering. **Shen Gao**, Zhaochun Ren, Yihong Eric Zhao, Dongyan Zhao, Dawei Yin and Rui Yan. Accepted by **WSDM 2019 (CCF Rank B)**. [PDF](/files/2019-wsdm-ecom-qa.pdf)
 
 Research Experience
 ======
