@@ -11,7 +11,7 @@ redirect_from:
 Hi! I am a Ph.D student at [Wangxuan Institute of Computer Technology (WICT)](https://www.wict.pku.edu.cn), [Peking University](http://www.pku.edu.cn/) working on Natural Language Processing Research, supervised by [Prof. Rui Yan](http://www.ruiyan.me/) and [Prof. Dongyan Zhao](https://scholar.google.com/citations?user=lhR8-68AAAAJ&hl=zh-CN). Before that, I received my M.E from [Beijing Institute of Technology](http://www.bit.edu.cn/) in 2018. I'm working on text summarization, dialog system and text generation.
 
 
-Selected Publications
+Selected Publications <sub>([Full List](https://shengaopku.github.io/publications/))</sub>
 ======
 1. ![new paper](/images/new.gif) Meaningful Answer Generation of E-Commerce Question-Answering. **Shen Gao**, Xiuying Chen, Zhaochun Ren, Dongyan Zhao and Rui Yan. Accepted by **TOIS (CCF Rank A)**. [PDF](/files/2020-tois-memqa.pdf)
 
