@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a Ph.D student at [Wangxuan Institute of Computer Technology (WICT)](https://www.wict.pku.edu.cn), [Peking University](http://www.pku.edu.cn/) working on Natural Language Processing Research, supervised by [Prof. Rui Yan](http://www.ruiyan.me/) and [Prof. Dongyan Zhao](https://scholar.google.com/citations?user=lhR8-68AAAAJ&hl=zh-CN). Before that, I received my M.E from [Beijing Institute of Technology](http://www.bit.edu.cn/) in 2018. I'm working on text summarization, dialog system and text generation.
+Hi! I am a Ph.D student at [Wangxuan Institute of Computer Technology (WICT)](https://www.wict.pku.edu.cn), [Peking University](http://www.pku.edu.cn/) working on Natural Language Processing Research, supervised by [Prof. Rui Yan](http://www.ruiyan.me/) and [Prof. Dongyan Zhao](https://www.icst.pku.edu.cn/zhaodongyan/en/). Before that, I received my M.E from [Beijing Institute of Technology](http://www.bit.edu.cn/) in 2018. I'm working on text summarization, dialog system and text generation.
 
 
 Selected Publications <sub>([Full List](https://shengaopku.github.io/publications/))</sub>
