@@ -38,3 +38,6 @@ Research Intern. Mentor: [Li Liu](https://scholar.google.com/citations?user=NS8R
 1. [JD.com](http://datascience.jd.com/), Data Science Lab, Beijing, China.  June, 2018
 Research Intern. Mentor: [Prof. Zhaochun Ren](http://ir.sdu.edu.cn/~zhaochunren/)
 
+# [Awards](https://shengaopku.github.io/awards/)
+
+# [Academic Service](https://shengaopku.github.io/service/)
