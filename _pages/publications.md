@@ -7,6 +7,7 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=Xb5yz-YAAAAJ&hl=zh-CN).
 
+1. The Style-Content Duality of Attractiveness: Learning to Write Eye-Catching Headlines via Disentanglement. Mingzhe Li, Xiuying Chen, Min Yang, **Shen Gao**, Dongyan Zhao and Rui Yan. Accepted by **AAAI 2021**.
 
 1. Meaningful Answer Generation of E-Commerce Question-Answering. **Shen Gao**, Xiuying Chen, Zhaochun Ren, Dongyan Zhao and Rui Yan. Accepted by **TOIS**. [PDF](/files/2020-tois-memqa.pdf)
 
