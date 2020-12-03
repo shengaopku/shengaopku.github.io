@@ -15,7 +15,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 1. Selection and Generation: Learning towards Multi-Product Advertisement Post Generation. Zhangming Chan, Yuchi Zhang, Xiuying Chen, **Shen Gao**, Zhiqiang Zhang, Dongyan Zhao and Rui Yan. Accepted by **EMNLP 2020**. [PDF](/files/2020-emnlp-adpost.pdf)
 
-1. VMSMO: Learning to Generate Multimodal Summary for Video-based News Articles. Mingzhe Li, Xiuying Chen, Shen Gao, Zhangming Chan, Dongyan Zhao and Rui Yan. Accepted by **EMNLP 2020**. [PDF](/files/2020-emnlp-mmsumm.pdf)
+1. VMSMO: Learning to Generate Multimodal Summary for Video-based News Articles. Mingzhe Li, Xiuying Chen, **Shen Gao**, Zhangming Chan, Dongyan Zhao and Rui Yan. Accepted by **EMNLP 2020**. [PDF](/files/2020-emnlp-mmsumm.pdf)
     
 1. From Standard Summarization to New Tasks and Beyond: Summarization with Manifold Information. **Shen Gao**, Xiuying Chen, Zhaochun Ren, Dongyan Zhao and Rui Yan. Accepted by **IJCAI 2020** (**Special Track**. Acceptance criteria: 1) Core AI topic and 2) The list of authors should contain at least one author who has made significant contributions to the topic over the last few years and can be considered an expert on that topic.) [PDF](/files/2020-ijcai-summ-survey.pdf)
 
@@ -33,4 +33,4 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 1. Iterative Document Representation Learning Towards Summarization with Polishing. Xiuying Chen, **Shen Gao**, Chongyang Tao, Yan Song, Dongyan Zhao and Rui Yan. Accepted by **EMNLP 2018**. [PDF](/files/2018-emnlp-polish.pdf) 
 
-1. Get The Point of My Utterance! Learning Towards Effective Responses with Multi-Head Attention Mechanism. Chongyang Tao, Shen Gao, Mingyue Shang, Wei Wu, Dongyan Zhao and Rui Yan. Accepted by **IJCAI 2018**. [PDF](/files/2018-ijcai-multi-head.pdf)
+1. Get The Point of My Utterance! Learning Towards Effective Responses with Multi-Head Attention Mechanism. Chongyang Tao, **Shen Gao**, Mingyue Shang, Wei Wu, Dongyan Zhao and Rui Yan. Accepted by **IJCAI 2018**. [PDF](/files/2018-ijcai-multi-head.pdf)
