@@ -7,6 +7,7 @@ layout: archive
 ---
 
 1. TheWebConf (WWW) Program committee 2021 
+1. SIGIR Program committee 2021 
 1. ACL Program committee 2019, 2020 
 1. EMNLP Program committee 2019, 2020 
 1. NAACL Program committee 2020 
