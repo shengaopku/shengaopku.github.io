@@ -6,6 +6,7 @@ author_profile: true
 layout: archive
 ---
 
+1. Scientific Research Award, Peking University 2020
 1. President Scholarship, Peking University 2020
 1. Merit Student, Peking University 2019
 1. The Second Prize Scholarship, Peking University 2019 
