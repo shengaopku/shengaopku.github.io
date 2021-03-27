@@ -8,14 +8,14 @@ layout: archive
 
 1. TheWebConf (WWW) Program committee 2021 
 1. SIGIR Program committee 2021 
-1. ACL Program committee 2019, 2020 
+1. ACL Program committee 2019, 2020, 2021
 1. EMNLP Program committee 2019, 2020 
 1. NAACL Program committee 2020, 2021
 1. COLING Program committee 2020 
 1. AAAI Program committee 2020, 2021 
 1. IJCAI Program committee 2021 
 1. CIKM Program committee 2020 
-1. CCL Program committee 2018, 2019， 2020 
+1. CCL Program committee 2018, 2019, 2020 
 1. AACL-IJCNLP Program committee 2020 
 1. PAKDD Program committee 2021 
 1. ACL NUSE Workshop Program committee 2020 
