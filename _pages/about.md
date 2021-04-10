@@ -27,6 +27,10 @@ Selected Publications <sub>([Full List](https://shengaopku.github.io/publication
     
 1. **Shen Gao**, Zhaochun Ren, Yihong Eric Zhao, Dongyan Zhao, Dawei Yin and Rui Yan. Product-Aware Answer Generation in E-Commerce Question-Answering. Accepted by **WSDM 2019 (CCF Rank B)**. [PDF](/files/2019-wsdm-ecom-qa.pdf)
 
+Invited tutorials
+======
+1. From Standard Summarization to New Tasks and Beyond: Tasks and Methods of Summarization with Manifold Information. In **IJCAI 2021**, Montreal, Canada, 2021.
+
 Research Experience
 ======
 1. [Ant Group (Alipay)](https://www.antgroup.com/en), Beijing, China.  
