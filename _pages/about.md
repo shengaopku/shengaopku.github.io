@@ -29,7 +29,7 @@ Selected Publications <sub>([Full List](https://shengaopku.github.io/publication
 
 Invited tutorials
 ======
-1. From Standard Summarization to New Tasks and Beyond: Tasks and Methods of Summarization with Manifold Information. In **IJCAI 2021**, Montreal, Canada, 2021.
+1. From Standard Summarization to New Tasks and Beyond: Tasks and Methods of Summarization with Manifold Information. In **IJCAI 2021**, Montreal, Canada, 2021. 
 
 Research Experience
 ======
