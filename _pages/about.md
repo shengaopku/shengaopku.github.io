@@ -13,7 +13,9 @@ Hi! I am a Ph.D student at [Wangxuan Institute of Computer Technology (WICT)](ht
 
 Selected Publications <sub>([Full List](https://shengaopku.github.io/publications/))</sub>
 ======
-1. ![new paper](/images/new.gif) **Shen Gao**, Xiuying Chen, Zhaochun Ren, Dongyan Zhao and Rui Yan. Meaningful Answer Generation of E-Commerce Question-Answering. Accepted by **TOIS (CCF Rank A)** (Invited to Present for SIGIR 2021). [PDF](/files/2020-tois-memqa.pdf)
+1. ![new paper](/images/new.gif) **Shen Gao**, Xiuying Chen, Chang Liu, Dongyan Zhao and Rui Yan. BioGen: Generating Biography Summary under Table Guidance on Wikipediag. Accepted by **ACL Findings**.
+
+3. ![new paper](/images/new.gif) **Shen Gao**, Xiuying Chen, Zhaochun Ren, Dongyan Zhao and Rui Yan. Meaningful Answer Generation of E-Commerce Question-Answering. Accepted by **TOIS (CCF Rank A)** (Invited to Present for SIGIR 2021). [PDF](/files/2020-tois-memqa.pdf)
 
 1. ![new paper](/images/new.gif) **Shen Gao**, Xiuying Chen, Li Liu, Dongyan Zhao and Rui Yan. Learning to Respond with Your Favorite Stickers: A Framework of Unifying Multi-Modality and User Preference in Multi-Turn Dialog. Accepted by **TOIS (CCF Rank A)** (Invited to Present for SIGIR 2021). [PDF](/files/2020-tois-sticker.pdf)
     
