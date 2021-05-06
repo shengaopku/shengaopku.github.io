@@ -11,8 +11,6 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 1. Capturing Relations between Scientific Papers: An Abstractive Model for Related Work Section Generation. Xiuying Chen, Hind Alamro, Mingzhe Li, **Shen Gao**, Xiangliang Zhang, Dongyan Zhao and Rui Yan. Accepted by **ACL 2021**. [PDF](/)
 
-1. History is NOT Enough: Improving Multi-Turn Response Selection via Conversation Future. Zhangming Chan, Juntao Li, Xiuying Chen, **Shen Gao**, Dongyan Zhao, Ji-Rong Wen and Rui Yan. Accepted by **ACL Findings 2021**. [PDF](/)
-
 1. Learning to Organize a Bag of Words into Sentences with Neural Networks: An Empirical Study. Chongyang Tao, **Shen Gao**, Juntao Li, Yansong Feng, Dongyan Zhao, Rui Yan. Accepted by **NAACL 2021**. [PDF](/)
 
 1. The Style-Content Duality of Attractiveness: Learning to Write Eye-Catching Headlines via Disentanglement. Mingzhe Li, Xiuying Chen, Min Yang, **Shen Gao**, Dongyan Zhao and Rui Yan. Accepted by **AAAI 2021**. [PDF](/files/2021-aaai-style-summ.pdf)
