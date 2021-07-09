@@ -10,6 +10,8 @@ redirect_from:
 
 Hi! I am a Ph.D student at [Wangxuan Institute of Computer Technology (WICT)](https://www.wict.pku.edu.cn), [Peking University](http://www.pku.edu.cn/) working on Natural Language Processing Research, supervised by [Prof. Rui Yan](http://www.ruiyan.me/) and [Prof. Dongyan Zhao](https://www.icst.pku.edu.cn/zhaodongyan/en/). Before that, I received my M.E from [Beijing Institute of Technology](http://www.bit.edu.cn/) in 2018. I'm working on text summarization, dialog system and text generation.
 
+**I'm on the 2022 academia job market. If you have opening position please contact me via [Email](mailto:shengao@pku.edu.cn). Thank you!**
+
 
 Selected Publications <sub>([Full List](https://shengaopku.github.io/publications/))</sub>
 ======
