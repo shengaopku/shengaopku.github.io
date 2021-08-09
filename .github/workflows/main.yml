@@ -32,6 +32,9 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run apt install
         run: sudo apt install ruby-dev ruby-bundler nodejs
+
+      - name: cdcdcd
+        run: cd $GITHUB_WORKSPACE
     
       - name: Run bundle clean
         run: bundle clean
