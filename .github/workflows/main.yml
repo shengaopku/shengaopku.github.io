@@ -35,6 +35,12 @@ jobs:
 
       - name: cdcdcd
         run: cd $GITHUB_WORKSPACE
+      
+      - name: cdcdcd
+        run: ls & pwd
+      
+      - name: cdcdcd
+        run: ls $GITHUB_WORKSPACE
     
       - name: Run bundle clean
         run: bundle clean
