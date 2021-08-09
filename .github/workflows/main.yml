@@ -46,7 +46,7 @@ jobs:
         run: bundle install
         
       - name: Run bundle clean
-        run: bundle exec jekyll
+        run: bundle exec jekyll build
       
       - name: Run zip
         run: zip -r mmcc.zip _site/
