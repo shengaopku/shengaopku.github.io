@@ -12,7 +12,7 @@ layout: archive
 1. EMNLP Program committee 2019, 2020, 2021
 1. NAACL Program committee 2020, 2021
 1. COLING Program committee 2020 
-1. AAAI Program committee 2020, 2021 
+1. AAAI Program committee 2020, 2021, 2022
 1. IJCAI Program committee 2021 
 1. CIKM Program committee 2020, 2021
 1. KDD External Reviewer 2021
