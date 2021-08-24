@@ -33,13 +33,13 @@ Selected Publications <sub>([Full List](https://shengaopku.github.io/publication
 
 Invited Tutorials
 ======
-1. From Standard Summarization to New Tasks and Beyond: Tasks and Methods of Summarization with Manifold Information. In **IJCAI 2021**, Montreal, Canada, 2021. 
+1. From Standard Summarization to New Tasks and Beyond: Tasks and Methods of Summarization with Manifold Information. In **IJCAI 2021**, Montreal, Canada, 2021. [PDF](/files/2021-ijcai-tutorial-new-summ-slides.pdf)
 
 Research Experience
 ======
-<!-- 1. [Ant Group (Alipay)](https://www.antgroup.com/en), Beijing, China.  
+1. [Ant Group (Alipay)](https://www.antgroup.com/en), Beijing, China.  
   - December, 2020 - Now
-  - Research Intern. Mentor: Yongliang Wang  -->
+  - Research Intern. Mentor: Yongliang Wang 
 
 1. [Inception Institute of Artificial Intelligence (IIAI)](https://www.inceptioniai.org/), Abu Dhabi, United Arab Emirates.  
   - March, 2019 - October, 2019
