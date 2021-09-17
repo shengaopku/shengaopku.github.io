@@ -15,9 +15,9 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 1. The Style-Content Duality of Attractiveness: Learning to Write Eye-Catching Headlines via Disentanglement. Mingzhe Li, Xiuying Chen, Min Yang, **Shen Gao**, Dongyan Zhao and Rui Yan. Accepted by **AAAI 2021**. [PDF](/files/2021-aaai-style-summ.pdf)
 
-1. Meaningful Answer Generation of E-Commerce Question-Answering. **Shen Gao**, Xiuying Chen, Zhaochun Ren, Dongyan Zhao and Rui Yan. Accepted by **TOIS**. [PDF](/files/2020-tois-memqa.pdf)
+1. Meaningful Answer Generation of E-Commerce Question-Answering. **Shen Gao**, Xiuying Chen, Zhaochun Ren, Dongyan Zhao and Rui Yan. Accepted by **TOIS 2021**. [PDF](/files/2021-tois-memqa.pdf)
 
-1. Learning to Respond with Your Favorite Stickers: A Framework of Unifying Multi-Modality and User Preference in Multi-Turn Dialog. **Shen Gao**, Xiuying Chen, Li Liu, Dongyan Zhao and Rui Yan. Accepted by **TOIS**. [PDF](/files/2020-tois-sticker.pdf)
+1. Learning to Respond with Your Favorite Stickers: A Framework of Unifying Multi-Modality and User Preference in Multi-Turn Dialog. **Shen Gao**, Xiuying Chen, Li Liu, Dongyan Zhao and Rui Yan. Accepted by **TOIS 2021**. [PDF](/files/2021-tois-sticker.pdf)
 
 1. Selection and Generation: Learning towards Multi-Product Advertisement Post Generation. Zhangming Chan, Yuchi Zhang, Xiuying Chen, **Shen Gao**, Zhiqiang Zhang, Dongyan Zhao and Rui Yan. Accepted by **EMNLP 2020**. [PDF](/files/2020-emnlp-adpost.pdf)
 
