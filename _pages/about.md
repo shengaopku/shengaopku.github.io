@@ -16,9 +16,9 @@ Selected Publications <sub>([Full List](https://shengaopku.github.io/publication
 ======
 1. ![new paper](/images/new.gif) **Shen Gao**, Xiuying Chen, Chang Liu, Dongyan Zhao and Rui Yan. BioGen: Generating Biography Summary under Table Guidance on Wikipedia. Accepted by **ACL Findings 2021**. [PDF](/files/2021-aclfindings-table-summ.pdf)
 
-3. ![new paper](/images/new.gif) **Shen Gao**, Xiuying Chen, Zhaochun Ren, Dongyan Zhao and Rui Yan. Meaningful Answer Generation of E-Commerce Question-Answering. Accepted by **TOIS (CCF Rank A)** (Invited to Present for SIGIR 2021). [PDF](/files/2020-tois-memqa.pdf)
+3. ![new paper](/images/new.gif) **Shen Gao**, Xiuying Chen, Zhaochun Ren, Dongyan Zhao and Rui Yan. Meaningful Answer Generation of E-Commerce Question-Answering. Accepted by **TOIS (CCF Rank A)** (Invited to Present for SIGIR 2021). [PDF](/files/2021-tois-memqa.pdf)
 
-1. ![new paper](/images/new.gif) **Shen Gao**, Xiuying Chen, Li Liu, Dongyan Zhao and Rui Yan. Learning to Respond with Your Favorite Stickers: A Framework of Unifying Multi-Modality and User Preference in Multi-Turn Dialog. Accepted by **TOIS (CCF Rank A)** (Invited to Present for SIGIR 2021). [PDF](/files/2020-tois-sticker.pdf)
+1. ![new paper](/images/new.gif) **Shen Gao**, Xiuying Chen, Li Liu, Dongyan Zhao and Rui Yan. Learning to Respond with Your Favorite Stickers: A Framework of Unifying Multi-Modality and User Preference in Multi-Turn Dialog. Accepted by **TOIS (CCF Rank A)** (Invited to Present for SIGIR 2021). [PDF](/files/2021-tois-sticker.pdf)
     
 1. **Shen Gao**, Xiuying Chen, Zhaochun Ren, Dongyan Zhao and Rui Yan. From Standard Summarization to New Tasks and Beyond: Summarization with Manifold Information. Accepted by **IJCAI 2020 (CCF Rank A)** (**<font color="#dd0000">Special Track</font>**. Acceptance criteria: 1) Core AI topic and 2) The list of authors should contain at least one author who has made significant contributions to the topic over the last few years and can be considered an expert on that topic.) [PDF](/files/2020-ijcai-summ-survey.pdf)
     
