@@ -31,7 +31,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
     
 1. How to Write Summaries with Patterns? Learning towards Abstractive Summarization through Prototype Editing. **Shen Gao**, Xiuying Chen, Piji Li, Zhanming Chan, Dongyan Zhao and Rui Yan. Accepted by **EMNLP 2019**. [PDF](/files/2019-emnlp-proto.pdf)
 
-1. Learning towards Abstractive Timeline Summarization. Xiuying Chen, Zhangming Chan, **Shen Gao**, Meng-Hsuan Yu, Dongyan Zhao and Rui Yan. [PDF](/files/2019-ijcai-timeline.pdf)
+1. Learning towards Abstractive Timeline Summarization. Xiuying Chen, Zhangming Chan, **Shen Gao**, Meng-Hsuan Yu, Dongyan Zhao and Rui Yan. Accepted by **IJCAI 2019**. [PDF](/files/2019-ijcai-timeline.pdf)
     
 1. Product-Aware Answer Generation in E-Commerce Question-Answering. **Shen Gao**, Zhaochun Ren, Yihong Eric Zhao, Dongyan Zhao, Dawei Yin and Rui Yan. Accepted by **WSDM 2019**. [PDF](/files/2019-wsdm-ecom-qa.pdf)
 
