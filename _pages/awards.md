@@ -6,6 +6,8 @@ author_profile: true
 layout: archive
 ---
 
+1. National Scholarship, 2021
+1. Pacemaker to Merit Student, Peking University 2021
 1. Scientific Research Award, Peking University 2020
 1. President Scholarship, Peking University 2020
 1. Merit Student, Peking University 2019
