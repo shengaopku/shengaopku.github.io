@@ -15,7 +15,7 @@ Hi! I am a Ph.D student at [Wangxuan Institute of Computer Technology (WICT)](ht
 Selected Publications <sub>([Full List](https://shengaopku.github.io/publications/))</sub>
 ======
 
-1. ![new paper](/images/new.gif) **Shen Gao**, Yuchi Zhang, Yongliang Wang, Yang Dong, Xiuying Chen, Dongyan Zhao and Rui Yan. HeteroQA: Learning towards Question-and-Answering through Multiple Information Sources via Heterogeneous Graph Modeling. Accepted by **WSDM 2021**. [PDF](/files/2022-wsdm-antqa.pdf)
+1. ![new paper](/images/new.gif) **Shen Gao**, Yuchi Zhang, Yongliang Wang, Yang Dong, Xiuying Chen, Dongyan Zhao and Rui Yan. HeteroQA: Learning towards Question-and-Answering through Multiple Information Sources via Heterogeneous Graph Modeling. Accepted by **WSDM 2022**. [PDF](/files/2022-wsdm-antqa.pdf)
 
 3. ![new paper](/images/new.gif) **Shen Gao**, Xiuying Chen, Chang Liu, Dongyan Zhao and Rui Yan. BioGen: Generating Biography Summary under Table Guidance on Wikipedia. Accepted by **ACL Findings 2021**. [PDF](/files/2021-aclfindings-table-summ.pdf)
 
