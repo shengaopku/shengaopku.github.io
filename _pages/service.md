@@ -21,7 +21,7 @@ layout: archive
 5. CCL Program committee 2018, 2019, 2020 
 6. NLPCC Program committee 2021
 7. AACL-IJCNLP Program committee 2020 
-8. PAKDD Program committee 2021 
+8. PAKDD Program committee 2021, 2022
 9. ACL NUSE Workshop Program committee 2020 
 10. Journal of Information Processing and Management (IPM) Reviewer from 2019 to now
 11. Neurocomputing Reviewer from 2020 to now
