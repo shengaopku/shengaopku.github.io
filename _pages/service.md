@@ -15,7 +15,7 @@ layout: archive
 5. NAACL Program committee 2020, 2021
 6. COLING Program committee 2020 
 7. AAAI Program committee 2020, 2021, 2022
-8. IJCAI Program committee 2021, 2022
+8. IJCAI Program committee 2021, 2022, 2022
 9. WSDM Program committee 2022
 10. CIKM Program committee 2020, 2021
 11. KDD External reviewer 2021
