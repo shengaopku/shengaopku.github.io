@@ -8,7 +8,7 @@ layout: archive
 
 1. ACL Rolling Review Action Editor (Area Chair) 2022
 1. TheWebConf (WWW) Program committee 2021, 2022
-1. SIGIR Program committee 2021 (Session Chair) 
+1. SIGIR Program committee 2021 (Session Chair), 2022
 2. KDD Program committee 2022
 3. ACL Program committee 2019, 2020, 2021
 4. EMNLP Program committee 2019, 2020, 2021
