@@ -7,6 +7,9 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=Xb5yz-YAAAAJ&hl=zh-CN).
 
+1. Learning towards conversational AI: A survey. Tingchen Fu, **Shen Gao**, Xueliang Zhao, Ji-rong Wen and Rui Yan. Accepted by **AI Open 2022**. [PDF](/)
+
+
 1. Follow the Timeline! Generating Abstractive and Extractive Timeline Summary in Chronological Order. Xiuying Chen, Mingzhe Li, **Shen Gao**, Zhangming Chan, Dongyan Zhao and Rui Yan. Accepted by **TOIS 2022**. [PDF](/)
 
 1. HeteroQA: Learning towards Question-and-Answering through Multiple Information Sources via Heterogeneous Graph Modeling. **Shen Gao**, Yuchi Zhang, Yongliang Wang, Yang Dong, Xiuying Chen, Dongyan Zhao and Rui Yan. Accepted by **WSDM 2022**. [PDF](/files/2022-wsdm-antqa.pdf)
