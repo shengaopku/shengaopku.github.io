@@ -13,7 +13,7 @@ layout: archive
 3. ACL Program committee 2019, 2020, 2021
 4. EMNLP Program committee 2019, 2020, 2021
 5. NAACL Program committee 2020, 2021
-6. COLING Program committee 2020 
+6. COLING Program committee 2020, 2022
 7. AAAI Program committee 2020, 2021, 2022
 8. IJCAI Program committee 2021, 2022, 2022
 9. WSDM Program committee 2022
