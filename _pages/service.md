@@ -20,7 +20,7 @@ layout: archive
 10. CIKM Program committee 2020, 2021, 2022
 11. KDD External reviewer 2021
 12. CCL Program committee 2018, 2019, 2020 
-13. NLPCC Program committee 2021
+13. NLPCC Program committee 2021, 2022
 14. AACL-IJCNLP Program committee 2020 
 15. PAKDD Program committee 2021, 2022
 16. ACL NUSE Workshop Program committee 2020 
