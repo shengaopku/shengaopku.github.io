@@ -7,8 +7,11 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=Xb5yz-YAAAAJ&hl=zh-CN).
 
-1. Learning towards conversational AI: A survey. Tingchen Fu, **Shen Gao**, Xueliang Zhao, Ji-rong Wen and Rui Yan. Accepted by **AI Open 2022**. [PDF](/)
+1. Conversational Recommendation via Hierarchical Information Modeling. **Shen Gao**, Quan Tu, Yanran Li, Jianwei Cui, Bin Wang and Rui Yan. Accepted by **SIGIR 2022**. [PDF](/files/2022-sigir-conv-rec.pdf)
 
+1. Target-aware Abstractive Related Work Generation with Contrastive Learning. Xiuying Chen, Hind Alamro, Mingzhe Li, **Shen Gao**, Rui Yan, Xin Gao and Xiangliang Zhang. Accepted by **SIGIR 2022**. [PDF](/files/2022-sigir-related-gen.pdf)
+
+1. Learning towards conversational AI: A survey. Tingchen Fu, **Shen Gao**, Xueliang Zhao, Ji-rong Wen and Rui Yan. Accepted by **AI Open 2022**. [PDF](/files/2022-aiopen-dialog-survey.pdf)
 
 1. Follow the Timeline! Generating Abstractive and Extractive Timeline Summary in Chronological Order. Xiuying Chen, Mingzhe Li, **Shen Gao**, Zhangming Chan, Dongyan Zhao and Rui Yan. Accepted by **TOIS 2022**. [PDF](/)
 
