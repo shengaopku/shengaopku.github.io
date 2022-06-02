@@ -18,11 +18,11 @@ layout: archive
 8. IJCAI Program committee 2021, 2022, 2022
 9. WSDM Program committee 2022
 10. CIKM Program committee 2020, 2021, 2022
-11. KDD External reviewer 2021
 12. CCL Program committee 2018, 2019, 2020 
 13. NLPCC Program committee 2021, 2022
 14. AACL-IJCNLP Program committee 2020 
 15. PAKDD Program committee 2021, 2022
-16. ACL NUSE Workshop Program committee 2020 
-17. Journal of Information Processing and Management (IPM) Reviewer from 2019 to now
-18. Neurocomputing Reviewer from 2020 to now
+16. CCKS Program committee 2022
+17. ACL NUSE Workshop Program committee 2020 
+18. Journal of Information Processing and Management (IPM) Reviewer from 2019 to now
+19. Neurocomputing Reviewer from 2020 to now
