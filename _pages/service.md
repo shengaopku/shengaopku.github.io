@@ -18,7 +18,7 @@ layout: archive
 8. IJCAI Program committee 2021, 2022, 2022
 9. WSDM Program committee 2022
 10. CIKM Program committee 2020, 2021, 2022
-12. CCL Program committee 2018, 2019, 2020 
+12. CCL Program committee 2018, 2019, 2020, 2022
 13. NLPCC Program committee 2021, 2022
 14. AACL-IJCNLP Program committee 2020 
 15. PAKDD Program committee 2021, 2022
