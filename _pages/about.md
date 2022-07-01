@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a Ph.D student at [Wangxuan Institute of Computer Technology (WICT)](https://www.wict.pku.edu.cn), [Peking University](http://www.pku.edu.cn/), supervised by [Prof. Rui Yan](https://scholar.google.com/citations?user=eLw6g-UAAAAJ) and [Prof. Dongyan Zhao](https://www.icst.pku.edu.cn/zhaodongyan/en/). Before that, I received my M.E from [Beijing Institute of Technology](http://www.bit.edu.cn/) in 2018. I'm working on text summarization, dialog system and text generation.
+Hi! I am a tenure-track assistant professor in the School of Computer Science and Technology of Shandong University, as a member of the [Information Retrieval Lab](https://ir.sdu.edu.cn/). I got my Ph.D degree at [Wangxuan Institute of Computer Technology (WICT)](https://www.wict.pku.edu.cn), [Peking University](http://www.pku.edu.cn/), supervised by [Prof. Rui Yan](https://scholar.google.com/citations?user=eLw6g-UAAAAJ) and [Prof. Dongyan Zhao](https://www.icst.pku.edu.cn/zhaodongyan/en/). Before that, I received my M.E from [Beijing Institute of Technology](http://www.bit.edu.cn/) in 2018. I'm working on text summarization, dialog system and text generation.
 
 Selected Publications <sub>([Full List](https://shengaopku.github.io/publications/))</sub>
 ======
@@ -38,7 +38,7 @@ Invited Tutorials
 Research Experience
 ======
 1. [Ant Group (Alipay)](https://www.antgroup.com/en), Beijing, China.  
-  - December, 2020 - Now
+  - December, 2020 - June, 2022
   - Research Intern. Mentor: Yongliang Wang 
 
 1. [Inception Institute of Artificial Intelligence (IIAI)](https://www.inceptioniai.org/), Abu Dhabi, United Arab Emirates.  
