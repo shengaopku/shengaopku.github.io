@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Shen Gao (高莘)"
   avatar           : "profile.png"
-  bio              : "Ph.D Student at Peking University"
+  bio              : "Assistant Professor at Shandong University"
   location         : "Beijing"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Xb5yz-YAAAAJ&hl=zh-CN"
-  email            : "shengao@pku.edu.cn"
+  email            : "shengao@sdu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
