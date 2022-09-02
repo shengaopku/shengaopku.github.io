@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a tenure-track assistant professor in the School of Computer Science and Technology of Shandong University, as a member of the [Information Retrieval Lab](https://ir.sdu.edu.cn/). I got my Ph.D degree at [Wangxuan Institute of Computer Technology (WICT)](https://www.wict.pku.edu.cn), [Peking University](http://www.pku.edu.cn/), supervised by [Prof. Rui Yan](https://scholar.google.com/citations?user=eLw6g-UAAAAJ) and [Prof. Dongyan Zhao](https://www.icst.pku.edu.cn/zhaodongyan/en/). Before that, I received my M.E from [Beijing Institute of Technology](http://www.bit.edu.cn/) in 2018. I'm working on text summarization, dialog system and text generation.
+Hi! I am a tenure-track assistant professor in the School of Computer Science and Technology of Shandong University, as a member of the [Information Retrieval Lab](https://ir.sdu.edu.cn/). I got my Ph.D degree at [Wangxuan Institute of Computer Technology (WICT)](https://www.wict.pku.edu.cn), [Peking University](http://www.pku.edu.cn/), supervised by [Prof. Rui Yan](https://scholar.google.com/citations?user=eLw6g-UAAAAJ) and [Prof. Dongyan Zhao](https://www.icst.pku.edu.cn/zhaodongyan/en/). I'm working on text summarization, dialog system and text generation.
+<!-- Before that, I received my M.E from [Beijing Institute of Technology](http://www.bit.edu.cn/) in 2018.  -->
 
 **Prospective students**: I am looking for highly motivated short-term research interns and master students. If you are interested in working with me on text summarization, dialog system and text generation, please send me an email with your CV. (`shengao at sdu.edu.cn`)
 
