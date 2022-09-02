@@ -12,6 +12,8 @@ Hi! I am a tenure-track assistant professor in the School of Computer Science an
 
 **Prospective students**: I am looking for highly motivated short-term research interns and master students. If you are interested in working with me on text summarization, dialog system and text generation, please send me an email with your CV. (`shengao at sdu.edu.cn`)
 
+<!-- An important reminder for interns. Before you apply for internship in our research group, please be aware: we hold the intellectual property of any research work from our lab during your internship. We have every right to improve and CONTINUE the work even when the intern(s) in charge check out. AGREE with the terms and conditions before you send me emails and sign up. This is important. -->
+
 Selected Publications <sub>([Full List](https://shengaopku.github.io/publications/))</sub>
 ======
 
