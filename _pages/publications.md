@@ -7,6 +7,14 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=Xb5yz-YAAAAJ&hl=zh-CN).
 
+1. Summarizing Procedural Text: Data and Approach. **Shen Gao**, Shen Gao, Haotong Zhang, Xiuying Chen, Dongyan Zhao and Rui Yan. Accepted by **EMNLP 2022** Findinds. [PDF](/files/2022-emnlp-proc-summ.pdf)
+
+1. Scientific Paper Extractive Summarization Enhanced by Citation Graphs. Xiuying Chen, Mingzhe Li, **Shen Gao**, Rui Yan, Xin Gao and Xiangliang Zhang
+. Accepted by **EMNLP 2022**. [PDF](/files/2022-emnlp-sci-paper-summ.pdf)
+
+1. Neural Machine Translation with Contrastive Translation Memories. Xin Cheng, **Shen Gao**, Lemao Liu, Dongyan Zhao and Rui Yan
+. Accepted by **EMNLP 2022**. [PDF](/files/2022-emnlp-mem-trans.pdf)
+
 1. Conversational Recommendation via Hierarchical Information Modeling. **Shen Gao**, Quan Tu, Yanran Li, Jianwei Cui, Bin Wang and Rui Yan. Accepted by **SIGIR 2022**. [PDF](/files/2022-sigir-conv-rec.pdf)
 
 1. Target-aware Abstractive Related Work Generation with Contrastive Learning. Xiuying Chen, Hind Alamro, Mingzhe Li, **Shen Gao**, Rui Yan, Xin Gao and Xiangliang Zhang. Accepted by **SIGIR 2022**. [PDF](/files/2022-sigir-related-gen.pdf)
