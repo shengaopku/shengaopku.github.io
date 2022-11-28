@@ -7,22 +7,26 @@ layout: archive
 ---
 
 1. ACL Rolling Review Action Editor (Area Chair) 2022
+2. IJCAI Senior Program Committee 2023
+
+---
+
 1. TheWebConf (WWW) Program committee 2021, 2022, 2023
-1. SIGIR Program committee 2021 (Session Chair), 2022
-2. KDD Program committee 2022
-3. ACL Program committee 2019, 2020, 2021
-4. EMNLP Program committee 2019, 2020, 2021
-5. NAACL Program committee 2020, 2021
-6. COLING Program committee 2020, 2022
-7. AAAI Program committee 2020, 2021, 2022, 2023
-8. IJCAI Program committee 2021, 2022, 2022
-9. WSDM Program committee 2022, 2023
-10. CIKM Program committee 2020, 2021, 2022
-12. CCL Program committee 2018, 2019, 2020, 2022
-13. NLPCC Program committee 2021, 2022
-14. AACL-IJCNLP Program committee 2020 
-15. PAKDD Program committee 2021, 2022
-16. CCKS Program committee 2022
-17. ACL NUSE Workshop Program committee 2020 
-18. Journal of Information Processing and Management (IPM) Reviewer from 2019 to now
-19. Neurocomputing Reviewer from 2020 to now
+4. SIGIR Program committee 2021 (Session Chair), 2022
+5. KDD Program committee 2022
+6. ACL Program committee 2019, 2020, 2021
+7. EMNLP Program committee 2019, 2020, 2021
+8. NAACL Program committee 2020, 2021
+9. COLING Program committee 2020, 2022
+10. AAAI Program committee 2020, 2021, 2022, 2023
+11. IJCAI Program committee 2021, 2022, 2022
+12. WSDM Program committee 2022, 2023
+13. CIKM Program committee 2020, 2021, 2022
+14. CCL Program committee 2018, 2019, 2020, 2022
+15. NLPCC Program committee 2021, 2022
+16. AACL-IJCNLP Program committee 2020 
+17. PAKDD Program committee 2021, 2022
+18. CCKS Program committee 2022
+19. ACL NUSE Workshop Program committee 2020 
+20. Journal of Information Processing and Management (IPM) Reviewer from 2019 to now
+21. Neurocomputing Reviewer from 2020 to now
