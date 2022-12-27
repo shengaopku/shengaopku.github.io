@@ -7,6 +7,8 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=Xb5yz-YAAAAJ&hl=zh-CN).
 
+1. Contrastive Learning Reduces Hallucination in Conversations. Weiwei Sun, Zhengliang Shi, **Shen Gao**, Pengjie Ren, Maarten de Rijke and Zhaochun Ren. Accepted by **AAAI 2023**. [PDF](/files/2023-aaai-cont-conv.pdf)
+
 1. Summarizing Procedural Text: Data and Approach. **Shen Gao**, Haotong Zhang, Xiuying Chen, Dongyan Zhao and Rui Yan. Accepted by **EMNLP 2022** Findings. [PDF](/files/2022-emnlp-proc-summ.pdf)
 
 1. Scientific Paper Extractive Summarization Enhanced by Citation Graphs. Xiuying Chen, Mingzhe Li, **Shen Gao**, Rui Yan, Xin Gao and Xiangliang Zhang
