@@ -13,7 +13,7 @@ layout: archive
 
 1. TheWebConf (WWW) Program committee 2021, 2022, 2023
 4. SIGIR Program committee 2021 (Session Chair), 2022, 2023
-5. KDD Program committee 2022
+5. KDD Program committee 2022, 2023
 6. ACL Program committee 2019, 2020, 2021
 7. EMNLP Program committee 2019, 2020, 2021
 8. NAACL Program committee 2020, 2021
