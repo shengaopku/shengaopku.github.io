@@ -18,9 +18,11 @@ Hi! I am a tenure-track assistant professor in the School of Computer Science an
 Selected Publications <sub>([Full List](https://shengaopku.github.io/publications/))</sub>
 ======
 
-1. ![new paper](/images/new.gif) **Shen Gao**, Yuchi Zhang, Yongliang Wang, Yang Dong, Xiuying Chen, Dongyan Zhao and Rui Yan. HeteroQA: Learning towards Question-and-Answering through Multiple Information Sources via Heterogeneous Graph Modeling. Accepted by **WSDM 2022**. [PDF](/files/2022-wsdm-antqa.pdf)
+1. ![new paper](/images/new.gif) A Trend of AI Conference Convergence in Similarity: An Empirical Study through Trans-Temporal Heterogeneous Graph. Shen Gao,Haotong Zhang, Xiuying Chen, Chongyang Tao, Dongyan Zhao and Rui Yan. Accepted by **TKDE**. [PDF](/files/2023-tkde-comf-simi.pdf)
 
-3. ![new paper](/images/new.gif) **Shen Gao**, Xiuying Chen, Chang Liu, Dongyan Zhao and Rui Yan. BioGen: Generating Biography Summary under Table Guidance on Wikipedia. Accepted by **ACL Findings 2021**. [PDF](/files/2021-aclfindings-table-summ.pdf)
+1. **Shen Gao**, Yuchi Zhang, Yongliang Wang, Yang Dong, Xiuying Chen, Dongyan Zhao and Rui Yan. HeteroQA: Learning towards Question-and-Answering through Multiple Information Sources via Heterogeneous Graph Modeling. Accepted by **WSDM 2022**. [PDF](/files/2022-wsdm-antqa.pdf)
+
+3. **Shen Gao**, Xiuying Chen, Chang Liu, Dongyan Zhao and Rui Yan. BioGen: Generating Biography Summary under Table Guidance on Wikipedia. Accepted by **ACL Findings 2021**. [PDF](/files/2021-aclfindings-table-summ.pdf)
 
 3. **Shen Gao**, Xiuying Chen, Zhaochun Ren, Dongyan Zhao and Rui Yan. Meaningful Answer Generation of E-Commerce Question-Answering. Accepted by **TOIS (CCF Rank A)** (Invited to Present for SIGIR 2021). [PDF](/files/2021-tois-memqa.pdf)
 
