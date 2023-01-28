@@ -18,7 +18,7 @@ Hi! I am a tenure-track assistant professor in the School of Computer Science an
 Selected Publications <sub>([Full List](https://shengaopku.github.io/publications/))</sub>
 ======
 
-1. ![new paper](/images/new.gif) Shen Gao, Haotong Zhang, Xiuying Chen, Chongyang Tao, Dongyan Zhao and Rui Yan. A Trend of AI Conference Convergence in Similarity: An Empirical Study through Trans-Temporal Heterogeneous Graph. Accepted by **TKDE**. [PDF](/files/2023-tkde-comf-simi.pdf)
+1. ![new paper](/images/new.gif) **Shen Gao**, Haotong Zhang, Xiuying Chen, Chongyang Tao, Dongyan Zhao and Rui Yan. A Trend of AI Conference Convergence in Similarity: An Empirical Study through Trans-Temporal Heterogeneous Graph. Accepted by **TKDE**. [PDF](/files/2023-tkde-comf-simi.pdf)
 
 1. **Shen Gao**, Yuchi Zhang, Yongliang Wang, Yang Dong, Xiuying Chen, Dongyan Zhao and Rui Yan. HeteroQA: Learning towards Question-and-Answering through Multiple Information Sources via Heterogeneous Graph Modeling. Accepted by **WSDM 2022**. [PDF](/files/2022-wsdm-antqa.pdf)
 
