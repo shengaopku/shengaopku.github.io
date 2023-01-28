@@ -7,6 +7,8 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=Xb5yz-YAAAAJ&hl=zh-CN).
 
+1. A Trend of AI Conference Convergence in Similarity: An Empirical Study through Trans-Temporal Heterogeneous Graph. Shen Gao,Haotong Zhang, Xiuying Chen, Chongyang Tao, Dongyan Zhao and Rui Yan. Accepted by **TKDE**. [PDF](/files/2023-tkde-comf-simi.pdf)
+
 1. Follow the Timeline! Generating an Abstractive and Extractive Timeline Summary in Chronological Order. Xiuying Chen, Mingzhe Li, **Shen Gao**, Zhangming Chan, Dongyan Zhao, Xin Gao, Xiangliang Zhang and Rui Yan. Accepted by **TOIS**. [PDF](/files/2023-tois-timeline.pdf)
 
 1. Contrastive Learning Reduces Hallucination in Conversations. Weiwei Sun, Zhengliang Shi, **Shen Gao**, Pengjie Ren, Maarten de Rijke and Zhaochun Ren. Accepted by **AAAI 2023**. [PDF](/files/2023-aaai-cont-conv.pdf)
