@@ -8,6 +8,7 @@ layout: archive
 
 1. ACL Rolling Review Action Editor (Area Chair) 2022
 2. IJCAI Senior Program Committee 2023
+3. NLPCC 2023 Publicity Chair
 
 ---
 
