@@ -18,7 +18,13 @@ Hi! I am a tenure-track assistant professor in the [School of Computer Science a
 Selected Publications <sub>([Full List](https://shengaopku.github.io/publications/))</sub>
 ======
 
-1. ![new paper](/images/new.gif) **Shen Gao**, Haotong Zhang, Xiuying Chen, Chongyang Tao, Dongyan Zhao and Rui Yan. A Trend of AI Conference Convergence in Similarity: An Empirical Study through Trans-Temporal Heterogeneous Graph. Accepted by **TKDE**. [PDF](/files/2023-tkde-comf-simi.pdf)
+1. ![new paper](/images/new.gif) **Shen Gao**, Xin Cheng, Mingzhe Li, Xiuying Chen, Jinpeng Li, Dongyan Zhao and Rui Yan. Dialogue Summarization with Static-Dynamic Structure Fusion Graph. Accepted by **ACL 2023**. [PDF](/files/2023-acl-dialog-summ.pdf)
+
+1. ![new paper](/images/new.gif) Quan Tu\*, **Shen Gao\***, Xiaolong Wu, Zhao Cao, Ji-Rong Wen and Rui Yan. SSP: Self-Supervised Post-training for Conversational Search. Accepted by **ACL 2023 Findings**. [PDF](/files/2023-acl-ssp.pdf)
+
+1. ![new paper](/images/new.gif) **Shen Gao**, Zhitao Yao, Chongyang Tao, Xiuying Chen, Pengjie Ren, Zhaochun Ren and Zhumin Chen. UMSE: Unified Multi-scenario Summarization Evaluation. Accepted by **ACL 2023 Findings**. [PDF](/files/2023-acl-uni-eval.pdf)
+
+1. **Shen Gao**, Haotong Zhang, Xiuying Chen, Chongyang Tao, Dongyan Zhao and Rui Yan. A Trend of AI Conference Convergence in Similarity: An Empirical Study through Trans-Temporal Heterogeneous Graph. Accepted by **TKDE**. [PDF](/files/2023-tkde-comf-simi.pdf)
 
 1. **Shen Gao**, Yuchi Zhang, Yongliang Wang, Yang Dong, Xiuying Chen, Dongyan Zhao and Rui Yan. HeteroQA: Learning towards Question-and-Answering through Multiple Information Sources via Heterogeneous Graph Modeling. Accepted by **WSDM 2022**. [PDF](/files/2022-wsdm-antqa.pdf)
 
