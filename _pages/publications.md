@@ -7,6 +7,12 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=Xb5yz-YAAAAJ&hl=zh-CN).
 
+1. Dialogue Summarization with Static-Dynamic Structure Fusion Graph. **Shen Gao**, Xin Cheng, Mingzhe Li, Xiuying Chen, Jinpeng Li, Dongyan Zhao and Rui Yan. Accepted by **ACL 2023**. [PDF](/files/2023-acl-dialog-summ.pdf)
+
+1. SSP: Self-Supervised Post-training for Conversational Search. Quan Tu\*, **Shen Gao\***, Xiaolong Wu, Zhao Cao, Ji-Rong Wen and Rui Yan. Accepted by **ACL 2023 Findings**. [PDF](/files/2023-acl-ssp.pdf)
+
+1. UMSE: Unified Multi-scenario Summarization Evaluation. **Shen Gao**, Zhitao Yao, Chongyang Tao, Xiuying Chen, Pengjie Ren, Zhaochun Ren and Zhumin Chen. Accepted by **ACL 2023 Findings**. [PDF](/files/2023-acl-uni-eval.pdf)
+
 1. A Topic-aware Summarization Framework with Different Modal Side Information. Xiuying Chen, Mingzhe Li, **Shen Gao**, Xin Cheng, Qiang Yang, Qishen Zhang, Xin Gao and Xiangliang Zhang. Accepted by **SIGIR 2023**. [PDF](/files/2023-sigir-two-input.pdf)
 
 1. A Trend of AI Conference Convergence in Similarity: An Empirical Study through Trans-Temporal Heterogeneous Graph. **Shen Gao**, Haotong Zhang, Xiuying Chen, Chongyang Tao, Dongyan Zhao and Rui Yan. Accepted by **TKDE**. [PDF](/files/2023-tkde-comf-simi.pdf)
