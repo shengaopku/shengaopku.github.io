@@ -14,7 +14,8 @@ main:
         
 #   - title: "Blog Posts"
 #     url: /year-archive/
-    
+  - title: "Students"
+    url: /students/
   - title: "CV"
     url: /files/ShenGao_CV_wo_phone.pdf
 
