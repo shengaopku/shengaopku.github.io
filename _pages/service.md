@@ -22,7 +22,7 @@ layout: archive
 9. COLING Program committee 2020, 2022
 10. AAAI Program committee 2020, 2021, 2022, 2023, 2024
 11. IJCAI Program committee 2021, 2022, 2022
-12. WSDM Program committee 2022, 2023
+12. WSDM Program committee 2022, 2023, 2024
 13. CIKM Program committee 2020, 2021, 2022
 14. EACL Program committee 2023
 15. CCL Program committee 2018, 2019, 2020, 2022
