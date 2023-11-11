@@ -33,3 +33,4 @@ layout: archive
 20. ACL NUSE Workshop Program committee 2020 
 21. Journal of Information Processing and Management (IPM) Reviewer from 2019 to now
 22. Neurocomputing Reviewer from 2020 to now
+23. IEEE Transactions on Audio, Speech and Language Processing Reviewer from 2023 to now
