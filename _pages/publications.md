@@ -9,6 +9,8 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 1. Towards a Unified Framework for  Reference Retrieval and Related Work Generation. Zhengliang Shi, **Shen Gao^**, Zhen Zhang, Xiuying Chen, Chumin Chen, Pengjie Ren, Zhaochun Ren. **EMNLP 2023 Findings**. [PDF](/files/2023-emnlp-related-gen.pdf)
 
+2. Multi-Defendant Legal Judgment Prediction via Hierarchical Reasoning. Yougang Lyu, Jitai Hao, Zihan Wang, Kai Zhao, **Shen Gao**, Pengjie Ren, Zhumin Chen, Fang Wang, Zhaochun Ren. **EMNLP 2023 Findings**. [PDF](/files/2023-emnlp-legal.pdf)
+
 1. Dialogue Summarization with Static-Dynamic Structure Fusion Graph. **Shen Gao**, Xin Cheng, Mingzhe Li, Xiuying Chen, Jinpeng Li, Dongyan Zhao and Rui Yan. Accepted by **ACL 2023**. [PDF](/files/2023-acl-dialog-summ.pdf)
 
 1. SSP: Self-Supervised Post-training for Conversational Search. Quan Tu\*, **Shen Gao\***, Xiaolong Wu, Zhao Cao, Ji-Rong Wen and Rui Yan. Accepted by **ACL 2023 Findings**. [PDF](/files/2023-acl-ssp.pdf)
