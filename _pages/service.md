@@ -13,6 +13,12 @@ layout: archive
 
 ---
 
+1.	中国中文信息学会青年工作委员会 委员
+2.	中国中文信息学会信息检索专委会 通讯委员
+3.	中国计算机学会自然语言处理专业委员会 执行委员
+
+---
+
 1. TheWebConf (WWW) Program committee 2021, 2022, 2023
 4. SIGIR Program committee 2021 (Session Chair), 2022, 2023
 5. KDD Program committee 2022, 2023
