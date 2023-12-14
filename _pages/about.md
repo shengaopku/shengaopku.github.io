@@ -18,6 +18,8 @@ Hi! I am a tenure-track assistant professor in the [School of Computer Science a
 Selected Publications <sub>([Full List](https://shengaopku.github.io/publications/))</sub>
 ======
 
+1. ![new paper](/images/new.gif) **Shen Gao**, Zhengliang Shi, Minghang Zhu, Bowen Fang, Xin Xin, Pengjie Ren, Zhumin Chen, Jun Ma, Zhaochun Ren. Confucius: Iterative Tool Learning from Introspection Feedback by Easy-to-Difficult Curriculum. Accepted by **AAAI 2024**. [PDF](https://arxiv.org/pdf/2308.14034.pdf)
+
 1. ![new paper](/images/new.gif) **Shen Gao**, Xin Cheng, Mingzhe Li, Xiuying Chen, Jinpeng Li, Dongyan Zhao and Rui Yan. Dialogue Summarization with Static-Dynamic Structure Fusion Graph. Accepted by **ACL 2023**. [PDF](/files/2023-acl-dialog-summ.pdf)
 
 1. ![new paper](/images/new.gif) Quan Tu\*, **Shen Gao\***, Xiaolong Wu, Zhao Cao, Ji-Rong Wen and Rui Yan. SSP: Self-Supervised Post-training for Conversational Search. Accepted by **ACL 2023 Findings**. [PDF](/files/2023-acl-ssp.pdf)
