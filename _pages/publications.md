@@ -7,7 +7,9 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=Xb5yz-YAAAAJ&hl=zh-CN).
 
-1. Towards a Unified Framework for  Reference Retrieval and Related Work Generation. Zhengliang Shi, **Shen Gao^**, Zhen Zhang, Xiuying Chen, Chumin Chen, Pengjie Ren, Zhaochun Ren. **EMNLP 2023 Findings**. [PDF](/files/2023-emnlp-related-gen.pdf)
+1. Confucius: Iterative Tool Learning from Introspection Feedback by Easy-to-Difficult Curriculum. **Shen Gao**, Zhengliang Shi, Minghang Zhu, Bowen Fang, Xin Xin, Pengjie Ren, Zhumin Chen, Jun Ma, Zhaochun Ren. **AAAI 2024**. [PDF](https://arxiv.org/pdf/2308.14034.pdf)
+
+1. Towards a Unified Framework for Reference Retrieval and Related Work Generation. Zhengliang Shi, **Shen Gao^**, Zhen Zhang, Xiuying Chen, Chumin Chen, Pengjie Ren, Zhaochun Ren. **EMNLP 2023 Findings**. [PDF](/files/2023-emnlp-related-gen.pdf)
 
 2. Multi-Defendant Legal Judgment Prediction via Hierarchical Reasoning. Yougang Lyu, Jitai Hao, Zihan Wang, Kai Zhao, **Shen Gao**, Pengjie Ren, Zhumin Chen, Fang Wang, Zhaochun Ren. **EMNLP 2023 Findings**. [PDF](/files/2023-emnlp-legal.pdf)
 
