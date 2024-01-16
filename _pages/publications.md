@@ -9,6 +9,12 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 1. Confucius: Iterative Tool Learning from Introspection Feedback by Easy-to-Difficult Curriculum. **Shen Gao**, Zhengliang Shi, Minghang Zhu, Bowen Fang, Xin Xin, Pengjie Ren, Zhumin Chen, Jun Ma, Zhaochun Ren. **AAAI 2024**. [PDF](https://arxiv.org/pdf/2308.14034.pdf)
 
+2. Write Summary Step-by-Step: A Pilot Study of Stepwise Summarization. Xiuying Chen, **Shen Gao**, . **TASLP**. [PDF](/files/2024-taslp-step-summ.pdf)
+
+3. Center-retained fine-tuning for conversational question ranking through unsupervised center identification. Zhongkun Liu, Zhumin Chen, Zhaochun Ren, **Shen Gao**, Jun Ma, Pengjie Ren. **Information Processing & Management**. [PDF](/files/2024-ipm-ques-rerank.pdf)
+
+4. Multi-Defendant Legal Judgment Prediction via Hierarchical Reasoning. Yougang Lyu, Jitai Hao, Zihan Wang, Kai Zhao, **Shen Gao**, Pengjie Ren, Zhumin Chen, Fang Wang, Zhaochun Ren. **EMNLP 2023 Findings**. [PDF](/files/2023-emnlp-legal-judge.pdf)
+
 1. Towards a Unified Framework for Reference Retrieval and Related Work Generation. Zhengliang Shi, **Shen Gao^**, Zhen Zhang, Xiuying Chen, Chumin Chen, Pengjie Ren, Zhaochun Ren. **EMNLP 2023 Findings**. [PDF](/files/2023-emnlp-related-gen.pdf)
 
 2. Multi-Defendant Legal Judgment Prediction via Hierarchical Reasoning. Yougang Lyu, Jitai Hao, Zihan Wang, Kai Zhao, **Shen Gao**, Pengjie Ren, Zhumin Chen, Fang Wang, Zhaochun Ren. **EMNLP 2023 Findings**. [PDF](/files/2023-emnlp-legal.pdf)
