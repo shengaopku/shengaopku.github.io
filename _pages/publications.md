@@ -7,9 +7,11 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=Xb5yz-YAAAAJ&hl=zh-CN).
 
+1. Generative News Recommendation. **Shen Gao**, Jiabao Fang, Quan Tu, Zhitao Yao, Zhumin Chen, Pengjie Ren, Zhaochun Ren. **WWW 2024**. [PDF](/files/2024-www-news-rec.pdf)
+
 1. Confucius: Iterative Tool Learning from Introspection Feedback by Easy-to-Difficult Curriculum. **Shen Gao**, Zhengliang Shi, Minghang Zhu, Bowen Fang, Xin Xin, Pengjie Ren, Zhumin Chen, Jun Ma, Zhaochun Ren. **AAAI 2024**. [PDF](https://arxiv.org/pdf/2308.14034.pdf)
 
-2. Write Summary Step-by-Step: A Pilot Study of Stepwise Summarization. Xiuying Chen, **Shen Gao**, . **TASLP**. [PDF](/files/2024-taslp-step-summ.pdf)
+2. Write Summary Step-by-Step: A Pilot Study of Stepwise Summarization. Xiuying Chen, **Shen Gao**, Mingzhe Li, Qingqing Zhu, Xin Gao, Xiangliang Zhang. **TASLP**. [PDF](/files/2024-taslp-step-summ.pdf)
 
 3. Center-retained fine-tuning for conversational question ranking through unsupervised center identification. Zhongkun Liu, Zhumin Chen, Zhaochun Ren, **Shen Gao**, Jun Ma, Pengjie Ren. **Information Processing & Management**. [PDF](/files/2024-ipm-ques-rerank.pdf)
 
