@@ -31,14 +31,15 @@ layout: archive
 10. AAAI Program committee 2020, 2021, 2022, 2023, 2024
 11. IJCAI Program committee 2021, 2022, 2022
 12. WSDM Program committee 2022, 2023, 2024
-13. CIKM Program committee 2020, 2021, 2022
-14. EACL Program committee 2023
-15. CCL Program committee 2018, 2019, 2020, 2022
-16. NLPCC Program committee 2021, 2022
-17. AACL-IJCNLP Program committee 2020 
-18. PAKDD Program committee 2021, 2022
-19. CCKS Program committee 2022
-20. ACL NUSE Workshop Program committee 2020 
-21. Journal of Information Processing and Management (IPM) Reviewer from 2019 to now
-22. Neurocomputing Reviewer from 2020 to now
-23. IEEE Transactions on Audio, Speech and Language Processing Reviewer from 2023 to now
+13. COLM Program committee 2024
+14. CIKM Program committee 2020, 2021, 2022
+15. EACL Program committee 2023
+16. CCL Program committee 2018, 2019, 2020, 2022
+17. NLPCC Program committee 2021, 2022
+18. AACL-IJCNLP Program committee 2020 
+19. PAKDD Program committee 2021, 2022
+20. CCKS Program committee 2022
+21. ACL NUSE Workshop Program committee 2020 
+22. Journal of Information Processing and Management (IPM) Reviewer from 2019 to now
+23. Neurocomputing Reviewer from 2020 to now
+24. IEEE Transactions on Audio, Speech and Language Processing Reviewer from 2023 to now
