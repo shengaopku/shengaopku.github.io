@@ -11,9 +11,9 @@ redirect_from:
 Hi! I am a tenure-track assistant professor in the [School of Computer Science and Technology of Shandong University](https://www.cs.sdu.edu.cn/), as a member of the [Information Retrieval Lab](https://ir.sdu.edu.cn/). I got my Ph.D degree at [Wangxuan Institute of Computer Technology (WICT)](https://www.wict.pku.edu.cn), [Peking University](http://www.pku.edu.cn/), supervised by [Prof. Rui Yan](https://scholar.google.com/citations?user=eLw6g-UAAAAJ) and [Prof. Dongyan Zhao](https://www.icst.pku.edu.cn/zhaodongyan/en/). I'm working on pre-train language models, LLM-based agents, and tool learning.
 <!-- Before that, I received my M.E from [Beijing Institute of Technology](http://www.bit.edu.cn/) in 2018.  -->
 
-**Prospective students**: I am looking for highly motivated PhD students and masters. If you are interested in working with me on pre-train language models, LLM-based agents, and tool learning, please send me an email with your CV. (`shengao at pku.edu.cn`)
+**Prospective students**: I am looking for highly motivated PhD students, masters, and interns (local and remote). If you are interested in working with me on pre-train language models, LLM-based agents, and tool learning, please send me an email with your CV. (`shengao at pku.edu.cn`)
 
-<!-- An important reminder for interns. Before you apply for internship in our research group, please be aware: we hold the intellectual property of any research work from our lab during your internship. We have every right to improve and CONTINUE the work even when the intern(s) in charge check out. AGREE with the terms and conditions before you send me emails and sign up. This is important. -->
+<!-- An important reminder for interns. Before you apply for the internship in our research group, please be aware: we hold the intellectual property of any research work from our lab during your internship. We have every right to improve and CONTINUE the work even when the intern(s) in charge check out. AGREE with the terms and conditions before you send me emails and sign up. This is important. -->
 
 Selected Publications <sub>([Full List](https://shengaopku.github.io/publications/))</sub>
 ======
