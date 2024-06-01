@@ -19,6 +19,8 @@ Hi! I am a Research Professor at the [School of Computer Science and Engineering
 Selected Publications <sub>([Full List](https://shengaopku.github.io/publications/))</sub>
 ======
 
+1. ![new paper](/images/new.gif) **Shen Gao**, Hao Li, Zhengliang Shi, Chengrui Huang, Quan Tu, Shuo Shang, Zhiliang Tian, Minlie Huang. 360REA: Towards A Reusable Experience Accumulation with 360 Assessment for Multi-Agent System. **ACL 2024 Findings**. [PDF](/files/2024-acl-360rea.pdf)
+
 1. ![new paper](/images/new.gif) **Shen Gao**, Jiabao Fang, Quan Tu, Zhitao Yao, Zhumin Chen, Pengjie Ren, Zhaochun Ren. Generative News Recommendation. **WWW 2024**. [PDF](/files/2024-www-news-rec.pdf)
 
 1. ![new paper](/images/new.gif) **Shen Gao**, Zhengliang Shi, Minghang Zhu, Bowen Fang, Xin Xin, Pengjie Ren, Zhumin Chen, Jun Ma, Zhaochun Ren. Confucius: Iterative Tool Learning from Introspection Feedback by Easy-to-Difficult Curriculum. Accepted by **AAAI 2024**. [PDF](https://arxiv.org/pdf/2308.14034.pdf)
