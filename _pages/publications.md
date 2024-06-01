@@ -7,6 +7,10 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=Xb5yz-YAAAAJ&hl=zh-CN).
 
+1. 360REA: Towards A Reusable Experience Accumulation with 360 Assessment for Multi-Agent System. **Shen Gao**, Hao Li, Zhengliang Shi, Chengrui Huang, Quan Tu, Shuo Shang, Zhiliang Tian, Minlie Huang. **ACL 2024 Findings**. [PDF](/files/2024-acl-360rea.pdf)
+
+1. Generate-then-Ground in Retrieval-Augmented Generation for Multi-hop Question Answering. Zhengliang Shi, Shuo Zhang, Weiwei Sun, **Shen Gao**, Pengjie Ren, Zhumin Chen and Zhaochun Ren. **ACL 2024**. [PDF](/files/2024-acl-rag-qa.pdf)
+
 1. Characteristic AI Agents via Large Language Models. Xi Wang, Hongliang Dai, **Shen Gao** and Piji Li. **COLING 2024**. [PDF](/files/2024-coling-role-play.pdf)
 
 1. Generative News Recommendation. **Shen Gao**, Jiabao Fang, Quan Tu, Zhitao Yao, Zhumin Chen, Pengjie Ren, Zhaochun Ren. **WWW 2024**. [PDF](/files/2024-www-news-rec.pdf)
