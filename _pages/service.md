@@ -10,14 +10,14 @@ layout: archive
 2. IJCAI Senior Program Committee 2023, 2024
 3. NLPCC 2023 Publicity Chair
 4. Intelligent Systems with Applications Associate Editor
+5. NLPCC 2024 Area Chair
 
 ---
 
-1.	中国中文信息学会 青年工作委员会 委员
+1.	中国中文信息学会 青年工作委员会 执行委员
 2.	中国中文信息学会 信息检索专委会 通讯委员
 3.	中国中文信息学会 社会媒体处理专委会 委员
 4.	中国计算机学会 自然语言处理专业委员会 执行委员
-
 
 ---
 
