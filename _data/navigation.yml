@@ -16,8 +16,8 @@ main:
 #     url: /year-archive/
   - title: "Students"
     url: /students/
-  - title: "CV"
-    url: /files/ShenGao_CV_wo_phone.pdf
+  # - title: "CV"
+  #   url: /files/ShenGao_CV_wo_phone.pdf
 
 #   - title: "Guide"
 #     url: /markdown/
