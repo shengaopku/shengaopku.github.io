@@ -7,6 +7,8 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=Xb5yz-YAAAAJ&hl=zh-CN).
 
+1. Learning to Use Tools via Cooperative and Interactive Agents. Zhengliang Shi, **Shen Gao**, Xiuyi Chen, Yue Feng, Lingyong Yan, Haibo Shi, Dawei Yin, Pengjie Ren, Suzan Verberne and Zhaochun Ren. **EMNLP 2024 Findings**. [PDF](/files/2024-emnlp-agent-tools.pdf)
+
 1. 360REA: Towards A Reusable Experience Accumulation with 360 Assessment for Multi-Agent System. **Shen Gao**, Hao Li, Zhengliang Shi, Chengrui Huang, Quan Tu, Shuo Shang, Zhiliang Tian, Minlie Huang. **ACL 2024 Findings**. [PDF](/files/2024-acl-360rea.pdf)
 
 1. Generate-then-Ground in Retrieval-Augmented Generation for Multi-hop Question Answering. Zhengliang Shi, Shuo Zhang, Weiwei Sun, **Shen Gao**, Pengjie Ren, Zhumin Chen and Zhaochun Ren. **ACL 2024**. [PDF](/files/2024-acl-rag-qa.pdf)
