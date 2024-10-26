@@ -1,11 +1,9 @@
-
 ---
 layout: archive
 title: "Group"
 permalink: /group/
 author_profile: true
 ---
-
 
 <center>
     <img style="width: 20%; border-radius: 0.32em;
