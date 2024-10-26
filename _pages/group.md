@@ -1,8 +1,8 @@
 
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Group"
+permalink: /group/
 author_profile: true
 ---
 
