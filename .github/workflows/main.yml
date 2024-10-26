@@ -52,7 +52,7 @@ jobs:
         run: zip -r mmcc.zip _site/
   
       - name: 'Upload Artifact'
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: mmcc-artifact
           path: mmcc.zip
