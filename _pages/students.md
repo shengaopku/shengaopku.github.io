@@ -14,8 +14,12 @@ layout: archive
 4. Yiren Xiong (M.Sc student, Co-supervised with Prof. Shuo Shang, from 2024)
 5. Xiran Li (M.Sc student, Co-supervised with Prof. Shuo Shang, from 2024)
 6. Haoran Kong (M.Sc student, Co-supervised with Prof. Shuo Shang, from 2024)
-7. Chengrui Huang (PhD student, from 2025)
-8. Dongsheng Wang (PhD student, Co-supervised with Prof. Shuo Shang, from 2024)
+7. Dongsheng Wang (PhD student, Co-supervised with Prof. Shuo Shang, from 2024)
+8. Chengrui Huang (M.Sc student, from 2025)
+9. Feng Guo (M.Sc student, from 2025)
+10. Junshuo Zhang (M.Sc student, from 2025)
+11. Yuxi Huang (M.Sc student, from 2025)
+
 
 # Supervision in SDU:
 
