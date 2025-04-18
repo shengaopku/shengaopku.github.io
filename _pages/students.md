@@ -19,6 +19,8 @@ layout: archive
 9. Feng Guo (M.Sc student, from 2025)
 10. Junshuo Zhang (M.Sc student, from 2025)
 11. Yuxi Huang (M.Sc student, from 2025)
+12. Rui Zhang (M.Sc student, from 2025)
+13. Siying Ren (M.Sc student, from 2025)
 
 
 # Supervision in SDU:
