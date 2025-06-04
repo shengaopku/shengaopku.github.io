@@ -21,7 +21,9 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 7. Real-Time Single-Source Personalized PageRank over Evolving Social Networks. Sujun Shuai, Xuan Rao, Lisi Chen, Shuo Shang, Shen Gao. **ICDE 2025**.
 
-1. CulFiT: A Fine-grained Cultural-aware LLM Training Paradigm via Multilingual Critique Data Synthesis. Ruixiang Feng, Shen Gao*, Xiuying Chen, Lisi Chen, Shuo Shang. **ACL 2025**.
+8. DRE: Generating Recommendation Explanations by Aligning Large Language Models at Data-level. Yifan Wang, Shen Gao*, Jiabao Fang, Lisi Chen, Peng Han, and Shuo Shang*. **DASFAA 2025**.
+
+1. DRMR: An Immersing Oriented Role-Playing Framework with Duplex Relationship Modeling. Yuntao Wen, Shen Gao, Chengrui Huang, Yifan Wang, and Shuo Shang. **DASFAA 2025**.
 
 1. Learning to Use Tools via Cooperative and Interactive Agents. Zhengliang Shi, **Shen Gao**, Xiuyi Chen, Yue Feng, Lingyong Yan, Haibo Shi, Dawei Yin, Pengjie Ren, Suzan Verberne and Zhaochun Ren. **EMNLP 2024 Findings**. [PDF](/files/2024-emnlp-agent-tools.pdf)
 
