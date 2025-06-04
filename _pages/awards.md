@@ -6,6 +6,7 @@ author_profile: true
 layout: archive
 ---
 
+1. DASFAA 2025 Best Paper Award
 1. National Scholarship, 2021
 1. Merit Student Pacesetter, Peking University 2021
 1. Scientific Research Award, Peking University 2020
