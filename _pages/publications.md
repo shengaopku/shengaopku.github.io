@@ -7,6 +7,22 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=Xb5yz-YAAAAJ&hl=zh-CN).
 
+1. CulFiT: A Fine-grained Cultural-aware LLM Training Paradigm via Multilingual Critique Data Synthesis. Ruixiang Feng, Shen Gao*, Xiuying Chen, Lisi Chen, Shuo Shang. **ACL 2025**.
+
+2. Generative Next POI Recommendation with Semantic ID. Dongsheng Wang, Yuxi Huang, Shen Gao*, Yifan Wang, Chengrui Huang, Shuo Shang. **KDD 2025**.
+
+3. SMSMO: Learning to generate multimodal summary for scientific papers. Xinyi Zhong, Zusheng Tan, Shen Gao, Jing Li, Jiaxing Shen, Jingyu Ji, Jeff Tang, Billy Chiu. **Knowledge-Based Systems**.
+
+4. Unified Multi-Scenario Summarization Evaluation and Explanation. Shuo Shang, Zhitao Yao, Hao Fu, Chongyang Tao, Xiuying Chen, Feng Wang, Yongbo Wang, Zhaochun Ren, Shen Gao*. **TKDE**.
+
+5. Tool learning in the wild: Empowering language models as automatic tool agents. Zhengliang Shi, Shen Gao, Lingyong Yan, Yue Feng, Xiuyi Chen, Zhumin Chen, Dawei Yin, Suzan Verberne, Zhaochun Ren. **WWW 2025**.
+
+6. New Paradigm for Evaluating Scholar Summaries: A Facet-aware Metric and A Meta-evaluation Benchmark. Tairan Wang, Xiuying Chen, Qingqing Zhu, Taicheng Guo, Shen Gao, Zhiyong Lu, Xin Gao, Xiangliang Zhang. **TOIS 2025**.
+
+7. Real-Time Single-Source Personalized PageRank over Evolving Social Networks. Sujun Shuai, Xuan Rao, Lisi Chen, Shuo Shang, Shen Gao. **ICDE 2025**.
+
+1. CulFiT: A Fine-grained Cultural-aware LLM Training Paradigm via Multilingual Critique Data Synthesis. Ruixiang Feng, Shen Gao*, Xiuying Chen, Lisi Chen, Shuo Shang. **ACL 2025**.
+
 1. Learning to Use Tools via Cooperative and Interactive Agents. Zhengliang Shi, **Shen Gao**, Xiuyi Chen, Yue Feng, Lingyong Yan, Haibo Shi, Dawei Yin, Pengjie Ren, Suzan Verberne and Zhaochun Ren. **EMNLP 2024 Findings**. [PDF](/files/2024-emnlp-agent-tools.pdf)
 
 1. 360REA: Towards A Reusable Experience Accumulation with 360 Assessment for Multi-Agent System. **Shen Gao**, Hao Li, Zhengliang Shi, Chengrui Huang, Quan Tu, Shuo Shang, Zhiliang Tian, Minlie Huang. **ACL 2024 Findings**. [PDF](/files/2024-acl-360rea.pdf)
