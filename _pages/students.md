@@ -10,7 +10,7 @@ layout: archive
 
 1. Yuntao Wen (M.Sc student, Co-supervised with Prof. Shuo Shang, from 2024. CCF-B * 1. Research intern at BOSS Zhipin)
 2. Yifan Wang (M.Sc student, Co-supervised with Prof. Shuo Shang, from 2024. CCF-B * 1 Best Paper. Research intern at Xiaomi)
-3. Ruixiang Feng (M.Sc student, Co-supervised with Prof. Lisi Chen, from 2024. CCF-A * 1)
+3. Ruixiang Feng (M.Sc student, Co-supervised with Prof. Lisi Chen, from 2024. CCF-A * 1. Research intern at Huawei)
 4. Yiren Xiong (M.Sc student, Co-supervised with Prof. Shuo Shang, from 2024)
 5. Xiran Li (M.Sc student, Co-supervised with Prof. Shuo Shang, from 2024)
 6. Haoran Kong (M.Sc student, Co-supervised with Prof. Shuo Shang, 2024-2025)
