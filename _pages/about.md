@@ -16,6 +16,7 @@ Hi! I am a Research Professor at the [School of Computer Science and Engineering
 
 <!-- An important reminder for interns. Before you apply for the internship in our research group, please be aware: we hold the intellectual property of any research work from our lab during your internship. We have every right to improve and CONTINUE the work even when the intern(s) in charge check out. AGREE with the terms and conditions before you send me emails and sign up. This is important. -->
 
+<!--
 Selected Publications <sub>([Full List](https://shengaopku.github.io/publications/))</sub>
 ======
 
@@ -57,7 +58,7 @@ Invited Tutorials
 ======
 1. From Standard Summarization to New Tasks and Beyond: Tasks and Methods of Summarization with Manifold Information. In **IJCAI 2021**, Montreal, Canada, 2021. [PDF](/files/2021-ijcai-tutorial-new-summ-slides.pdf)
 
-<!--
+
 Research Experience
 ======
 1. [Ant Group (Alipay)](https://www.antgroup.com/en), Beijing, China.  
@@ -71,8 +72,9 @@ Research Experience
 1. [JD.com](http://datascience.jd.com/), Data Science Lab, Beijing, China.  
   - June, 2018 - October, 2018
   - Research Intern. Mentor: [Prof. Zhaochun Ren](http://ir.sdu.edu.cn/~zhaochunren/)
- -->
+
 
 # [Awards](https://shengaopku.github.io/awards/)
 
 # [Academic Service](https://shengaopku.github.io/service/)
+ -->
