@@ -7,6 +7,13 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=Xb5yz-YAAAAJ&hl=zh-CN).
 
+	
+1. Lock on Target! Precision Unlearning via Directional Control. Yuntao Wen, Shen Gao, Ruixiang Feng, Feng Guo, Yifan Wang, Ran Le, Yang Song, Shuo Shang. **EMNLP 2025** Findings.
+
+1. TTPA: Token-level Tool-use Preference Alignment Training Framework with Fine-grained Evaluation. Chengrui Huang, Shen Gao, Zhengliang Shi, Dongsheng Wang, Shuo Shang. **EMNLP 2025** Findings.
+
+1. CESRec: Constructing Pseudo Interactions for Sequential Recommendation via Conversational Feedback. Yifan Wang, Shen Gao, Jiabao Fang, Rui Yan, Billy Chiu, Shuo Shang. **EMNLP 2025** Findings.
+
 1. CulFiT: A Fine-grained Cultural-aware LLM Training Paradigm via Multilingual Critique Data Synthesis. Ruixiang Feng, Shen Gao*, Xiuying Chen, Lisi Chen, Shuo Shang. **ACL 2025**.
 
 2. Generative Next POI Recommendation with Semantic ID. Dongsheng Wang, Yuxi Huang, Shen Gao*, Yifan Wang, Chengrui Huang, Shuo Shang. **KDD 2025**.
