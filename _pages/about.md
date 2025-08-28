@@ -14,6 +14,8 @@ Hi! I am a Research Professor at the [School of Computer Science and Engineering
 
 **Prospective students**: I am looking for highly motivated PhD students, masters, and interns (local and remote). If you are interested in working with me on pre-train language models, LLM-based agents, and tool learning, please send me an email with your CV. (`shengao at pku.edu.cn`)
 
+**致保研同学**: 组内每年有3-4个保研名额，有意向报名请填写[表格](https://y695ye6jm6.feishu.cn/share/base/form/shrcnAEDeGrKUcfWCwf9wHMVJWR)，后续会安排组内面试。
+
 <!-- An important reminder for interns. Before you apply for the internship in our research group, please be aware: we hold the intellectual property of any research work from our lab during your internship. We have every right to improve and CONTINUE the work even when the intern(s) in charge check out. AGREE with the terms and conditions before you send me emails and sign up. This is important. -->
 
 <!--
