@@ -12,11 +12,11 @@ redirect_from:
 Hi! I am a Research Professor at the [School of Computer Science and Engineering (School of Cyber Security)](https://www.scse.uestc.edu.cn/), University of Electronic Science and Technology of China. Before that, I was an assistant professor at the [School of Computer Science and Technology of Shandong University](https://www.cs.sdu.edu.cn/). I got my Ph.D degree at [Wangxuan Institute of Computer Technology (WICT)](https://www.wict.pku.edu.cn), [Peking University](http://www.pku.edu.cn/), supervised by [Prof. Rui Yan](https://scholar.google.com/citations?user=eLw6g-UAAAAJ) and [Prof. Dongyan Zhao](https://www.icst.pku.edu.cn/zhaodongyan/en/). I'm working on pre-train language models, LLM-based agents, and tool learning.
 <!-- Before that, I received my M.E from [Beijing Institute of Technology](http://www.bit.edu.cn/) in 2018.  -->
 
-**Prospective students**: I am looking for highly motivated PhD students, masters, and interns (local and remote). If you are interested in working with me on pre-train language models, LLM-based agents, and tool learning, please send me an email with your CV. (`shengao at pku.edu.cn`)
+<!--**Prospective students**: I am looking for highly motivated PhD students, masters, and interns (local and remote). If you are interested in working with me on pre-train language models, LLM-based agents, and tool learning, please send me an email with your CV. (`shengao at pku.edu.cn`) -->
 
-**致保研同学**: 组内每年有3-4个保研名额，有意向报名请填写[表格](https://y695ye6jm6.feishu.cn/share/base/form/shrcnAEDeGrKUcfWCwf9wHMVJWR)，后续会安排组内面试。
+**致保研/考研同学**: 组内每年有3-4个保研名额，1-2个考研名额，有意向报名请填写[表格](https://y695ye6jm6.feishu.cn/share/base/form/shrcnAEDeGrKUcfWCwf9wHMVJWR)，后续会安排组内面试。
 
-<!-- An important reminder for interns. Before you apply for the internship in our research group, please be aware: we hold the intellectual property of any research work from our lab during your internship. We have every right to improve and CONTINUE the work even when the intern(s) in charge check out. AGREE with the terms and conditions before you send me emails and sign up. This is important. -->
+**Prospective students**: The research group offers 3-4 spots for recommended postgraduate candidates and 1-2 spots for examination-based applicants each year. If you are interested, please fill out the [form](https://y695ye6jm6.feishu.cn/share/base/form/shrcnAEDeGrKUcfWCwf9wHMVJWR). Phone interviews will be arranged subsequently.
 
 <!--
 Selected Publications <sub>([Full List](https://shengaopku.github.io/publications/))</sub>
