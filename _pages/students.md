@@ -14,7 +14,7 @@ layout: archive
 4. Yiren Xiong (M.Sc student, Co-supervised with Prof. Shuo Shang, from 2024)
 5. Xiran Li (M.Sc student, Co-supervised with Prof. Shuo Shang, from 2024)
 6. Haoran Kong (M.Sc student, Co-supervised with Prof. Shuo Shang, 2024-2025)
-7. Dongsheng Wang (PhD student, Co-supervised with Prof. Shuo Shang, from 2024. CCF-A * 2)
+7. Dongsheng Wang (PhD student, Co-supervised with Prof. Shuo Shang, from 2024. CCF-A * 1)
 8. Chengrui Huang (M.Sc student, from 2025, Co-supervised with Prof. Shuo Shang. CCF-B * 1. Research intern at Didi)
 9. Feng Guo (M.Sc student, from 2025. CCF-A * 1)
 10. Junshuo Zhang (M.Sc student, from 2025. Research intern at Didi)
@@ -22,7 +22,11 @@ layout: archive
 12. Rui Zhang (M.Sc student, from 2025)
 13. Siying Ren (M.Sc student, from 2025)
 14. Mingwen Wang (Joint PhD student, from 2025)
-
+15. Ke Shi (PhD student, from 2026)
+16. Zihan Li (M.Sc student, from 2026)
+17. Qinglin Yang (M.Sc student, from 2026)
+18. Yushu Nie (M.Sc student, from 2026)
+19. Zhiyuan Ma (M.Sc student, from 2026)
 
 # Supervision in SDU:
 
