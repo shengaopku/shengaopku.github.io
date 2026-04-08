@@ -7,6 +7,12 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=Xb5yz-YAAAAJ&hl=zh-CN).
 
+1. DPEPO: Diverse Parallel Exploration Policy Optimization for LLM-based Agents. JunShuo Zhang, Chengrui Huang, Feng Guo, Zihan Li, Ke Shi, Jiguo Yu, Menghua Jiang, Shuo Shang, Shen Gao. **ACL 2026**.
+
+1. FAVE: Flow-based Average Velocity Establishment for Sequential Recommendation. Ke Shi, Yao Zhang, Feng Guo, Jinyuan Zhang, JunShuo Zhang, Shen Gao, Shuo Shang. **SIGIR 2026**.
+
+1. PACE: Prefix-Protected and Difficulty-Aware Compression for Efficient Reasoning. Ruixiang Feng, Yuntao Wen, Silin Zhou, Ke Shi, Yifan Wang, Ran Le, Zhenwei An, Zongchao Chen, Chen Yang, Guangyue Peng, Yiming Jia, Dongsheng Wang, Tao Zhang, Lisi Chen, Yang Song, Shen Gao, Shuo Shang. **ACL 2026** Findingds.
+
 1. Beyond Superficial Forgetting: Thorough Unlearning through Knowledge Density Estimation and Block Re-insertion. Feng Guo, Yuntao Wen, Shen Gao*, Junshuo Zhang, Shuo Shang. **AAAI 2026**.
 
 1. Lock on Target! Precision Unlearning via Directional Control. Yuntao Wen, Shen Gao*, Ruixiang Feng, Feng Guo, Yifan Wang, Ran Le, Yang Song, Shuo Shang. **EMNLP 2025** Findings.
