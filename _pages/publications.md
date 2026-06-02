@@ -7,6 +7,8 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=Xb5yz-YAAAAJ&hl=zh-CN).
 
+1. What Affects the Stability of Tool Learning? \\ An Empirical Study on the Robustness of Tool Learning Frameworks. Chengrui Huang , Zhengliang Shi , Yuntao Wen , Xiuying Chen , Peng Han , Shen Gao and Shuo Shang. **IJCAI 2026**.
+
 1. DPEPO: Diverse Parallel Exploration Policy Optimization for LLM-based Agents. JunShuo Zhang, Chengrui Huang, Feng Guo, Zihan Li, Ke Shi, Jiguo Yu, Menghua Jiang, Shuo Shang, Shen Gao. **ACL 2026**.
 
 1. FAVE: Flow-based Average Velocity Establishment for Sequential Recommendation. Ke Shi, Yao Zhang, Feng Guo, Jinyuan Zhang, JunShuo Zhang, Shen Gao, Shuo Shang. **SIGIR 2026**.
